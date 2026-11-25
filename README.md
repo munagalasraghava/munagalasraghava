@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sai (Munagala Sai Raghava)
 
-<!--
-**munagalasraghava/munagalasraghava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Vision and Edge AI engineer, based in Hyderabad, India. I build real-time perception systems that run on embedded GPUs for UAV platforms.
 
-Here are some ideas to get you started:
+### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Real-time computer vision and edge AI for drones
+- Model optimization and deployment with TensorRT on NVIDIA Jetson
+- Custom CUDA kernels for image preprocessing
+- Inference services with FastAPI and Docker
+- Autopilot and simulation work with ArduPilot, Webots and visual servoing
+
+### Tech stack
+
+Python, PyTorch, TensorRT, CUDA, OpenCV, FastAPI, Docker, AWS, MLOps
+
+### Currently
+
+- Pursuing an ME in AI/ML (NLP and Generative AI) at BITS Pilani WILP
+- Building personal drone and robotics projects
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/munagalasairaghava)
